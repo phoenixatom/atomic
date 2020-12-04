@@ -1,2 +1,2 @@
 # atomic
-- Scripts, Wikis and whatever I find useful
+- I will be adding any useful scripts, oneliners, wikis and whatnot I find here.
